@@ -1,0 +1,10 @@
+{
+  "name": "pinnacles",
+  "version": "1.2.1",
+  "description": "Apply Pinnacles SEO recommendations in your own repository and report back what you applied.",
+  "author": { "name": "Pinnacles AI", "url": "https://pinnacles.ai/" },
+  "license": "MIT",
+  "homepage": "https://pinnacles.ai/docs/mcp",
+  "repository": "https://github.com/pinnacles-ai/skills",
+  "keywords": ["seo", "mcp", "pinnacles"]
+}

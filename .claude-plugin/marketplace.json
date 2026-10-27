@@ -1,0 +1,17 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "pinnacles",
+  "description": "Pinnacles SEO: the apply loop for the Pinnacles MCP server.",
+  "owner": { "name": "Pinnacles AI", "url": "https://pinnacles.ai/" },
+  "plugins": [
+    {
+      "name": "pinnacles",
+      "source": "./",
+      "description": "Apply Pinnacles SEO recommendations in your own repository and report back what you applied.",
+      "license": "MIT",
+      "homepage": "https://pinnacles.ai/docs/mcp",
+      "repository": "https://github.com/pinnacles-ai/skills",
+      "keywords": ["seo", "mcp", "pinnacles"]
+    }
+  ]
+}
